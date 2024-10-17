@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Java developer and web developer from India</h3>
 
 - 🔭 I’m currently working on **Hishab Book**.
-- 🌱 I'm currently learning React & Node.js.
+
 - 💬 Ask me about **Java Projects**.
 - 📫 How to reach me: [dharmeshgelatar15@gmail.com](mailto:dharmeshgelatar15@gmail.com)
 
