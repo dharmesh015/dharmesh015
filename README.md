@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Gelatar Dharmesh</h1>
 <h3 align="center">A passionate Java developer and web developer from India</h3>
 
-- 🔭 I’m currently working on **Hishab Book**.
-
-- 💬 Ask me about **Java Projects**.
+- 🔭 I'm currently working on **an E-commerce Platform** and **Hishab Book**
+- 💬 Ask me about **Java Projects** and **Spring Boot**
 - 📫 How to reach me: [dharmeshgelatar15@gmail.com](mailto:dharmeshgelatar15@gmail.com)
 
 ---
@@ -16,17 +15,17 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"/>
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" alt="Angular"/>
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
 </p>
 
 **Backend Development:**
 <p>
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/Java%208-007396?style=flat-square&logo=java&logoColor=white" alt="Java 8"/>
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" alt="Spring Boot"/>
   <img src="https://img.shields.io/badge/JSP-2E7D32?style=flat-square&logo=java&logoColor=white" alt="JSP"/>
-  <img src="https://img.shields.io/badge/JDBC-007396?style=flat-square&logo=java&logoColor=white" alt="JDBC"/>
-  <img src="https://img.shields.io/badge/Servlet-007396?style=flat-square&logo=java&logoColor=white" alt="Servlet"/>
-</p>
-
+  <img src="https://img.shields.io/badg
 **Database:**
 <p>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
