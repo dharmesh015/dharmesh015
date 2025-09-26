@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gelatar Dharmesh</h1>
 <h3 align="center">A passionate Java developer and web developer from India</h3>
 
-- 🔭 I'm currently working on **an E-commerce Platform** and **Hishab Book**
 - 💬 Ask me about **Java Projects** and **Spring Boot**
 - 📫 How to reach me: [dharmeshgelatar15@gmail.com](mailto:dharmeshgelatar15@gmail.com)
 
